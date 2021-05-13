@@ -1,2 +1,3 @@
-# ms-learn-a-github
-Verejné repo v rámci programu ŠTC 2021 o githube a MS Learn moduloch
+Terézia Volentierová
+Get started with Microsoft data analytics
+https://docs.microsoft.com/en-us/users/volentierovterzia-3222/
